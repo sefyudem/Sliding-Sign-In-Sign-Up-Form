@@ -14,6 +14,7 @@
     <div class="container">
       <div class="forms-container">
         <div class="signin-signup">
+          <!-- sign_in-->
           <form action="#" class="sign-in-form">
             <h2 class="title">Sign in</h2>
             <div class="input-field">
@@ -74,6 +75,7 @@
           </form>
         </div>
       </div>
+      <!-- sign_up -->
 
       <div class="panels-container">
         <div class="panel left-panel">
