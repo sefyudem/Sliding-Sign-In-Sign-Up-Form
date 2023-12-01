@@ -1,3 +1,8 @@
+<?php
+
+ ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -14,7 +19,7 @@
     <div class="container">
       <div class="forms-container">
         <div class="signin-signup">
-          <!-- sign_in-->
+          <!-- sign_in section-->
           <form action="#" class="sign-in-form">
             <h2 class="title">Sign in</h2>
             <div class="input-field">
@@ -75,7 +80,7 @@
           </form>
         </div>
       </div>
-      <!-- sign_up -->
+      <!-- sign_up section-->
 
       <div class="panels-container">
         <div class="panel left-panel">
